@@ -1,6 +1,6 @@
 # Aditya Sharma
 
-**Data Analyst | BI Developer | Python • SQL • Power BI**
+**Data Analyst | Data Science | Python • SQL • Power BI**
 
 📍 India | 💼 2+ Years Experience | 🎯 Open to Data Analyst Roles
 
@@ -126,7 +126,7 @@ I enjoy working at the intersection of **data, business, and decision-making**, 
 
 ## 📬 Contact
 
-* **Email:** [your.email@example.com](mailto:adityabrt2002@gmail,com)
+* **Email:** adityabrt2002@gmail.com
 * **GitHub:** github.com/b1-aditya
 * **LinkedIn:** www.linkedin.com/in/aditya-sharma-b34692202
 
