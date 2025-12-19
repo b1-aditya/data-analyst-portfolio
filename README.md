@@ -14,7 +14,7 @@ Data Analyst with 2+ years of experience turning raw data into actionable insigh
 
 ## 👤 About Me
 
-I am a results-driven Data Analyst currently working as a **BI Developer at ObjectOne Information Ltd**, contributing to data-driven solutions for government and enterprise clients (MyGov). I specialize in extracting insights from complex datasets, building intuitive dashboards, and applying machine learning models to solve real-world problems.
+I am a results-driven Data Analyst currently working as a **Data Analyst at ObjectOne Information Ltd**, contributing to data-driven solutions for government and enterprise clients (MyGov). I specialize in extracting insights from complex datasets, building intuitive dashboards, and applying machine learning models to solve real-world problems.
 
 I enjoy working at the intersection of **data, business, and decision-making**, and I continuously upskill through hands-on projects and industry-focused learning.
 
@@ -82,24 +82,6 @@ I enjoy working at the intersection of **data, business, and decision-making**, 
 
 ---
 
-### 🔹 SpaceX Falcon 9 First Stage Landing Prediction
-
-**(IBM Applied Data Science Capstone)**
-
-**Problem:** Predict whether the Falcon 9 first stage will land successfully.
-
-**Approach:**
-
-* Collected data using APIs and web scraping
-* Performed EDA and feature engineering
-* Built classification models to predict landing success
-
-**Tools:** Python, SQL, pandas, matplotlib, sklearn
-
-**Result:** Demonstrated end-to-end data science workflow with real-world aerospace data.
-
----
-
 ### 🔹 Power BI Business Dashboard
 
 **Problem:** Provide management with actionable business insights.
@@ -118,7 +100,7 @@ I enjoy working at the intersection of **data, business, and decision-making**, 
 
 ## 💼 Professional Experience
 
-### BI Developer
+### Data Anlayst
 
 **ObjectOne Information Ltd** | Client: MyGov
 
@@ -132,7 +114,6 @@ I enjoy working at the intersection of **data, business, and decision-making**, 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**
-Currently pursuing | Completed 2 semesters
 
 ---
 
