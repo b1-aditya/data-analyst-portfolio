@@ -126,9 +126,9 @@ I enjoy working at the intersection of **data, business, and decision-making**, 
 
 ## 📬 Contact
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **GitHub:** github.com/yourusername
-* **LinkedIn:** linkedin.com/in/yourprofile
+* **Email:** [your.email@example.com](mailto:adityabrt2002@gmail,com)
+* **GitHub:** github.com/b1-aditya
+* **LinkedIn:** www.linkedin.com/in/aditya-sharma-b34692202
 
 ---
 
